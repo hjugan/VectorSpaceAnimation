@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/GeometricVsNumerical/3977891868_2638839079_223132457.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/GeometricVsNumerical/2852726489_611894115_375911164.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/GeometricVsNumerical/2852726489_1839128356_1396646697.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/GeometricVsNumerical/2852726489_1203362428_597195684.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/GeometricVsNumerical/2852726489_2408024828_59663819.mp4'

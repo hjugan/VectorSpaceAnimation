@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/3977891868_478070940_223132457.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_3576549518_2964093079.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_3274518757_3297909712.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_1839128356_3350971286.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_639676312_348157196.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_2015106682_1965425155.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_3886905917_2822213796.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_3868022189_373234537.mp4'
+file 'file:/Users/hjugan/Desktop/School/2025/Fall/ASTRO 98/fp/fp/media/videos/scene/1080p60/partial_movie_files/SuperpositionPrinciples/2852726489_1839128356_3278671325.mp4'
